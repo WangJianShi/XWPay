@@ -1,0 +1,70 @@
+10
+
+dir
+0
+svn://xst@112.74.178.247/steal-time-frontend/StealTime/StealTime/Vender/XWModule/XWPay
+svn://xst@112.74.178.247/steal-time-frontend
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9f8f996-966f-4170-ad18-d6e6787b02bb
+
+UPPaySDK
+dir
+
+
+
+add
+
+WxSDK
+dir
+
+
+
+add
+
+AlipaySDk
+dir
+
+
+
+add
+
+XWPayCore
+dir
+
+
+
+add
+
+支付配置.docx
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

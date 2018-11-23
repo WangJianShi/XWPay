@@ -1,0 +1,133 @@
+10
+
+dir
+0
+svn://xst@112.74.178.247/steal-time-frontend/StealTime/StealTime/Vender/XWModule/XWPay/XWPayCore
+svn://xst@112.74.178.247/steal-time-frontend
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e9f8f996-966f-4170-ad18-d6e6787b02bb
+
+XWAliPayOrder.h
+file
+
+
+
+add
+
+XWAliPayOrder.m
+file
+
+
+
+add
+
+XWPayChannel.h
+file
+
+
+
+add
+
+XWPayBase.h
+file
+
+
+
+add
+
+XWPayChannel.m
+file
+
+
+
+add
+
+XWPayResult.h
+file
+
+
+
+add
+
+XWPayBase.m
+file
+
+
+
+add
+
+XWPay.h
+file
+
+
+
+add
+
+XWUpPayOrder.h
+file
+
+
+
+add
+
+XWPayResult.m
+file
+
+
+
+add
+
+XWPay.m
+file
+
+
+
+add
+
+XWUpPayOrder.m
+file
+
+
+
+add
+
+XWPayConstant.h
+file
+
+
+
+add
+
+XWWxPayOrder.h
+file
+
+
+
+add
+
+XWWxPayOrder.m
+file
+
+
+
+add
+
